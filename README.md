@@ -15,7 +15,7 @@ I'm a Solidity developer focused on building secure, decentralized financial sys
 | [👑 DevKingz NFT](https://github.com/AztecWarlord/DevKingz) | NFT collection using Chainlink VRF to assign randomized traits at mint time. | Solidity · Chainlink VRF |
 | [💱 Aztec Token Exchange](https://github.com/AztecWarlord/aztec-token-exchange) | Full-stack decentralized token exchange with a React frontend and Truffle-based smart contract backend. | Solidity · JavaScript · React · Truffle |
 | [💰 Fund Me](https://github.com/AztecWarlord/foundry-fund-me-f23) | Crowdfunding contract with Chainlink price feed integration and gas-optimized withdrawal patterns. | Solidity · Foundry · Chainlink |
-| [🖼️ On-Chain NFT](https://github.com/AztecWarlord/foundry-nft-f23) | ERC721 NFTs with both IPFS-hosted and fully on-chain SVG metadata. | Solidity · Foundry |
+| [🖼️ On-Chain NFT](https://github.com/AztecWarlord/DevKingz_DeFi_Project) | NFT collection ecosystem with a staking contract and a NFT rewards token. | Solidity · Foundry |
 
 ---
 
